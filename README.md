@@ -10,4 +10,6 @@ This code logs the IP addresses and user agents of visitors to a website using P
 <?php include("logger.php"); ?>
 ```
 
+
+
 > Note: It's important to use this code responsibly and ethically, and to comply with all relevant privacy laws and regulations.
