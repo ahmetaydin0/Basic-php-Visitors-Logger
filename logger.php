@@ -1,6 +1,6 @@
 <?php
 
-// If the user agent is small, should it be logged, for example bots?
+// If the user agent is small, should it be logged, for example bots? (default = false)
 $skipsmalluseragent = False;
 
 // Getting the remote IP address.
